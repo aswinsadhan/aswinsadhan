@@ -31,21 +31,7 @@
             width="50"
             height="50"
         />
-                <img
-            src="https://cdn.jsdelivr.net/npm/devicons@1.8.0/!PNG/bootstrap.png"
-            width="50"
-            height="50"
-        />
-                        <img
-            src="https://cdn.jsdelivr.net/npm/devicons@1.8.0/!PNG/github.png"
-            width="50"
-            height="50"
-        />
-                                <img
-            src="https://cdn.jsdelivr.net/npm/devicons@1.8.0/!PNG/mysql.png"
-            width="50"
-            height="50"
-        />
+
 
         
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> 
